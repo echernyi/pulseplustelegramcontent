@@ -18,7 +18,13 @@
       "sha": "41d1d3e6c3b18dcc7e9f1f7158933ac14e2d3b61",
       "cdn_url": "https://cdn.jsdelivr.net/gh/echernyi/pulseplustelegramcontent@5e16e87d86a0bba755cf12c709820710a7025d1d/pages/5-metrik-kotorye-dolzhen-znat-kazhdyj-vladelec-salona-krasoty-05-09/visual-03.png",
       "commit_sha": "5e16e87d86a0bba755cf12c709820710a7025d1d"
+    },
+    {
+      "path": "pages/5-metrik-kotorye-dolzhen-znat-kazhdyj-vladelec-salona-krasoty-05-09/visual-04.png",
+      "sha": "3dec69485fcb67be3a5515d432792e878c508caf",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/echernyi/pulseplustelegramcontent@adcfc48a288d3fb03d3c1257278db7eb2cd9e84b/pages/5-metrik-kotorye-dolzhen-znat-kazhdyj-vladelec-salona-krasoty-05-09/visual-04.png",
+      "commit_sha": "adcfc48a288d3fb03d3c1257278db7eb2cd9e84b"
     }
   ],
-  "updated_at": "2026-05-09T14:15:08Z"
+  "updated_at": "2026-05-09T14:15:11Z"
 }
